@@ -1,5 +1,5 @@
 # synthetic-noise
-These is code to add synthetic noise to an AVIRIS or AVIRIS NG synthetic image based on NEdL
+These is an IDL code to add synthetic noise to an AVIRIS or AVIRIS NG synthetic image based on NEdL. 
 
 # Inputs
 the inputs for this file are a synthetic AVIRIS or AVIRIS NG images and NEdL coefficients. The NEdL coefficients were originally created by Phill Dennison. Contact him or Alana Ayasse for the files. 
